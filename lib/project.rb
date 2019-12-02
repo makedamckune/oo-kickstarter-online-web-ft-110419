@@ -11,4 +11,3 @@ class Project
     backer.backed_projects << self
   end
 end
-© 2019 GitHub, Inc.
